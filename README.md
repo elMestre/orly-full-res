@@ -1,3 +1,7 @@
+Just a Simple fork of somethign I found funny :)
+
+
+
 # Full Resolution O Rly Book Covers
 Full resolution images of the O RLY book covers made by [The Practical Dev](http://twitter.com/thepracticaldev)
 
